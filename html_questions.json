@@ -1,0 +1,73 @@
+[{
+  "title": "Who was the first President of the United States?",
+  "answer_1": "Thomas Jefferson",
+  "answer_2": "Abraham Lincoln",
+  "answer_3": "George Washington",
+  "answer_4": "John Adams",
+  "right_answer": "George Washington"
+},
+{
+  "title": "Who discovered America?",
+  "answer_1": "Christopher Columbus",
+  "answer_2": "Marco Polo",
+  "answer_3": "Ferdinand Magellan",
+  "answer_4": "Vasco da Gama",
+  "right_answer": "Christopher Columbus"
+},
+{
+  "title": "In which year did the Titanic sink?",
+  "answer_1": "1905",
+  "answer_2": "1912",
+  "answer_3": "1918",
+  "answer_4": "1923",
+  "right_answer": "1912"
+},
+{
+  "title": "Who was the first woman to fly solo across the Atlantic Ocean?",
+  "answer_1": "Amelia Earhart",
+  "answer_2": "Harriet Quimby",
+  "answer_3": "Bessie Coleman",
+  "answer_4": "Jacqueline Cochran",
+  "right_answer": "Amelia Earhart"
+},
+{
+  "title": "Which ancient civilization built the pyramids?",
+  "answer_1": "Romans",
+  "answer_2": "Greeks",
+  "answer_3": "Egyptians",
+  "answer_4": "Mayans",
+  "right_answer": "Egyptians"
+},
+{
+  "title": "Who was the British Prime Minister during World War II?",
+  "answer_1": "Winston Churchill",
+  "answer_2": "Neville Chamberlain",
+  "answer_3": "Clement Attlee",
+  "answer_4": "Harold Macmillan",
+  "right_answer": "Winston Churchill"
+},
+{
+  "title": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+  "answer_1": "Mayflower",
+  "answer_2": "Santa Maria",
+  "answer_3": "Endeavour",
+  "answer_4": "Discovery",
+  "right_answer": "Mayflower"
+},
+{
+  "title": "Who was the first emperor of Rome?",
+  "answer_1": "Julius Caesar",
+  "answer_2": "Augustus",
+  "answer_3": "Nero",
+  "answer_4": "Caligula",
+  "right_answer": "Augustus"
+},
+{
+  "title": "Which war was fought between the North and South regions in the United States?",
+  "answer_1": "World War I",
+  "answer_2": "World War II",
+  "answer_3": "The Civil War",
+  "answer_4": "The Revolutionary War",
+  "right_answer": "The Civil War"
+}
+]
